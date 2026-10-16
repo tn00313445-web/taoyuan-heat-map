@@ -1,0 +1,9 @@
+{
+  "$schema": "https://railway.com/reference/projects.schema.json",
+  "project": {
+    "name": "taoyuan-heat-map"
+  },
+  "service": {
+    "name": "heat-map"
+  }
+}
